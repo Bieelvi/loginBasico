@@ -1,0 +1,17 @@
+{
+    "name": "bieel/login-basico",
+    "authors": [
+        {
+            "name": "GVR",
+            "email": "bieelvii@gmail.com"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
